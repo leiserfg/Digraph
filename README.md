@@ -13,11 +13,12 @@ It's heavily inspired by Vim's digraph.
 After write the first character press the Digraph shortcut (default `cmd-k`/`ctrl-k`), you then press the character that you'd like to merge and boala!
 Example:
 
-  if you press  you will see 
-  n ctrl-k ?       ñ        
-  E ctrl-k u       €        
-  A ctrl-k E       Æ        
-  ? ctrl-k !       ‽        
+  if you press  n ctrl-k ?  you will see  ñ
+  if you press  E ctrl-k u   you will see €
+  if you press  A ctrl-k E  you will see  Æ 
+  if you press  ? ctrl-k !  you will see  ‽ 
+                
+    
 
 
 
