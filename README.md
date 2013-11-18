@@ -14,7 +14,7 @@ After write the first character press the Digraph shortcut (default `cmd-k`/`ctr
 Example:
 
   if you press  n ctrl-k ?  you will see  ñ
-  if you press  E ctrl-k u   you will see €
+  if you press  E ctrl-k u  you will see €
   if you press  A ctrl-k E  you will see  Æ 
   if you press  ? ctrl-k !  you will see  ‽ 
                 
